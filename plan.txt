@@ -1,6 +1,6 @@
 # Links :
 
-* Github : 
-* Github Pages : 
-* Netlify : 
-* Vercel : 
+* Github : https://github.com/Codalicio/resume-page
+* Github Pages : https://codalicio.github.io/resume-page/
+* Netlify : https://brilliant-macaron-ce5f37.netlify.app/
+* Vercel : https://resume-page-five.vercel.app/
